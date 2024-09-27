@@ -154,7 +154,7 @@ const dictionary = {
     "Dota" : "dinding",
     "Dalok" : "dalam, kedalaman",
     "Datang" : "rampas, merampas",
-    "Dwi cantik" : "amanda dwi cahyani",
+    "Dwi cantik" : "amandha dwi cahyani",
   },
   E: {
     "Eloh" : "siang hari",
